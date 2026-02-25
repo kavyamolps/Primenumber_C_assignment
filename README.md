@@ -1,3 +1,5 @@
-HELLO
+## 📄 Documentation
 
-![Architecture_Diagram](https://github.com/user-attachments/assets/ba79229a-a9f3-4cac-94df-055f450465a5)
+- [Design Diagram](DESIGN_DIAGRAM.md)
+- [Build Process](BUILD_PROCESS.md)
+- [Research Log](RESEARCH_LOG.md)
